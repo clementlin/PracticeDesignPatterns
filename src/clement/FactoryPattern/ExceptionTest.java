@@ -11,7 +11,7 @@ public class ExceptionTest extends Thread
 
 	@Override
 	public void run() {
-		
+		//
 		int read_len;
 		char[] buf = new char[100];
 		BufferedReader in	;
